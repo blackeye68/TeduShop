@@ -1,0 +1,6 @@
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\Tedu.Common\bin\Debug\Tedu.Common.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\Tedu.Common\bin\Debug\Tedu.Common.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\Tedu.Common\obj\Debug\Tedu.Common.csprojAssemblyReference.cache
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\Tedu.Common\obj\Debug\Tedu.Common.csproj.CoreCompileInputs.cache
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\Tedu.Common\obj\Debug\Tedu.Common.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\Tedu.Common\obj\Debug\Tedu.Common.pdb
