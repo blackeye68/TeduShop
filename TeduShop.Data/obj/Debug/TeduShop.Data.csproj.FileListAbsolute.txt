@@ -12,3 +12,8 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Dat
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Model.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Model.dll.config
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.cache

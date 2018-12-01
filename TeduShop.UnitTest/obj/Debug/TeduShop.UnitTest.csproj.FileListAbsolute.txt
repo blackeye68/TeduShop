@@ -46,3 +46,5 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CopyComplete
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.UnitTest\bin\Debug\EntityFramework.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.UnitTest\bin\Debug\EntityFramework.xml
