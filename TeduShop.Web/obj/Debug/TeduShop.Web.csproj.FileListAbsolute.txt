@@ -49,6 +49,8 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\roslyn\vbc.rsp
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\roslyn\VBCSCompiler.exe
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\roslyn\VBCSCompiler.exe.config
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\Antlr3.Runtime.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\Microsoft.AI.Agent.Intercept.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\Microsoft.AI.DependencyCollector.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -72,6 +74,8 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\System.Web.WebPages
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\System.Web.WebPages.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\System.Web.WebPages.Razor.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\WebGrease.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.xml
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.xml
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\System.Web.Helpers.xml
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\System.Web.Mvc.xml
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\System.Web.Optimization.xml
@@ -95,7 +99,3 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.csproj.CopyComplete
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
-E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.dll
-E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.dll
-E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.xml
-E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.xml
