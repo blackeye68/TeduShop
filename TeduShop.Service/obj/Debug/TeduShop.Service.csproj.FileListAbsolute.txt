@@ -3,11 +3,13 @@ E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\Tedu.Common.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\EntityFramework.dll
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\Tedu.Common.pdb
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll.config
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll.config
+E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\bin\Debug\EntityFramework.xml
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojAssemblyReference.cache
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CoreCompileInputs.cache
 E:\CSharpToturial\Test\TeduShopAPI\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CopyComplete
